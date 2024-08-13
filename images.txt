@@ -1,4 +1,3 @@
-alipine
 nginx:latest
 mysql:5.7
 marcosman/e_commerce_php:0.0.1
