@@ -1,6 +1,2 @@
-nginx:latest
-mysql:5.7
-marcosman/e_commerce_php:0.0.1
-marcosman/e_commerce:0.0.1
-redis:7.2.5
-mongo:4.4.6
+nginx:1.23.1
+stilliard/pure-ftpd
